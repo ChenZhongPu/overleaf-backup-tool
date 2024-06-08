@@ -1,0 +1,15 @@
+user:
+  email: <Your Email>
+  password: <Your Password>
+project:
+  url: <Self-Hosted Overleaf URL>
+  id: <Project ID>
+backup:
+  download:
+    path: <Absolute Path to Store Backup Files>
+  git:
+    path: <Absolute Path to Store Git Repository>
+  rsync:
+    server: <Rsync Server>
+    port: <Server Port>
+    destination: <Destination Path in Rsync Server>
